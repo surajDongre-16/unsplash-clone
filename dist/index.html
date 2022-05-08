@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Unsplash mini</title>
+    <script
+      src="https://kit.fontawesome.com/24c494a6b6.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <style>
+
+  </style>
+  <body>
+    <div id="navbar"></div>
+    <div id="container">
+      <h1 style="font-size:65px">Unsplash</h1>
+      <h1>The internet’s source of freely-usable images.</h1>
+      <h1>Powered by creators everywhere.</h4>
+      <div id="search-content">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input type="text" id="abrakadabra" class="abrakadabra" placeholder="Search free high-resolution photos" size="80">
+      </div>
+    </div>
+
+    <div id="sort-filter">
+        <select id="sorting">
+          <option value="latest">Sort by</option>
+          <option value="latest">latest</option>
+          <option value="oldest">Oldest</option>
+          <option value="popular">Popular</option>
+          <option value="views">Views</option>
+          <option value="downloads">Downloads</option>
+      </select>
+      <select id="filtering">
+          <option value="landscape">Filter by</option>
+          <option value="landscape">Landscape</option>
+          <option value="portrait">Portrait</option>
+          <option value="squarish">Squarish</option>
+      </select>   
+    </div>
+    
+
+    <div id="photos"></div>
+  </body>
+</html>
+<script src="main.js" type="module"></script>

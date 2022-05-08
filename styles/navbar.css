@@ -1,0 +1,40 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+}
+#top, #bottom, #bot-left, #bot-right{
+    height: 50px;
+    display: flex;
+    gap: 20px;
+}
+.fa-solid, .fa-brands{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#nav-sub{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#top > .search{
+    border-radius: 50px;
+    margin-right: 4%;
+    padding-left: 10px;
+}
+#top > img{
+    width: 70px;
+}
+.left,.right{
+    margin: 0 1%;
+    border-right: 1px solid rgb(186, 183, 183);
+    padding-right: 2%;
+    margin-top: 1%;
+}
+.fa-unsplash{
+    margin-left: 1%;
+}
+
+.right > p{
+    cursor: pointer;
+}
