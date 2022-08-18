@@ -20,7 +20,7 @@ Deployed link of Netlify : https://unspalsh-clone.netlify.app/
 - Filter functionality also added to filter to result by landscape, portrait or squarish.
 
 ## Feedback
-If you like this please give it a star.
+# if You like it please feel free to give it a <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/512px-Star_icon_stylized.svg.png" width="10%"/>
 If you have any feedback, please reach out to me at surajdongre8@gmail.com
 
 
