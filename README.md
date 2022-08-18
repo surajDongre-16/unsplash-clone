@@ -1,6 +1,6 @@
 # unsplash-clone
 This project is basically a cloned version of unsplash.com, which will give you a various kind of image as per your search request.
-Deployed link of Netlify : https://max-fashion-fw17.netlify.app/
+Deployed link of Netlify : https://unspalsh-clone.netlify.app/
 
 ## Tech Stack:
 
