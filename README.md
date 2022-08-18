@@ -10,6 +10,10 @@ Deployed link of Netlify : https://unspalsh-clone.netlify.app/
 
 **JavaScript:** DOM Manupulation
 
+**React-component**
+
+**Rest-api**
+
 ## Features:
 - Provided with a search bar with search functionality.
 - Basic sorting functionaliies added like sort by lates, sort by oldest, sort by popularity, sort by views and downloads.
